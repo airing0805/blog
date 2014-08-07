@@ -3,8 +3,6 @@
 　　title: 欢迎使用 Markdown
 ---
 
-http://wowubuntu.com/markdown/index.html#p
-
 ## 欢迎使用 Markdown ##
 
 ### 区块元素 ###
@@ -241,3 +239,7 @@ Markdown 支持有序列表和无序列表。
 
 #### 反斜杠 ####
 可以利用反斜杠来插入一些在语法中有其它意义的符号
+
+终于弄完一篇文章
+转载自
+[http://wowubuntu.com/markdown/index.html#p](http://wowubuntu.com/markdown/index.html#p)
