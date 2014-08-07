@@ -1,6 +1,6 @@
 ---
-　　layout: default
-　　title: 欢迎使用 Markdown
+layout: default
+title: 欢迎使用 Markdown
 ---
 
 ## 欢迎使用 Markdown ##
