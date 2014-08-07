@@ -231,10 +231,12 @@ Markdown 支持有序列表和无序列表。
 
 **参考式**
 
-    ![Alt text][id]    
+    ![Alt text][id]  
+  
     [id]: /aa/aa/aa.jpg "没有图片资源呀"
 
-![Alt text][id]    
+![替代文字][id]
+
 [id]: /aa/aa/aa.jpg "没有图片资源呀"
 
 #### 反斜杠 ####
