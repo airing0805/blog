@@ -171,6 +171,11 @@ pre {
   letter-spacing: 0;
 }
 
+table  {
+  border-collapse: collapse;
+  border: 1px solid #E7E5DC;
+}
+
 table.post-list {
   width: 100%;
   border-collapse: collapse;
