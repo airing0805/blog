@@ -260,7 +260,12 @@ Markdown 支持有序列表和无序列表。
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 | 
 
-是不是这个markdownpad要换了，居然不支持表格显示  
+后面加空格   
+| Tables        | Are           | Cool  |    
+| ------------- |:-------------:| -----:|   
+| col 3 is      | right-aligned | $1600 |   
+| col 2 is      | centered      |   $12 |   
+| zebra stripes | are neat      |    $1 |   
 
 
 终于弄完一篇文章    
