@@ -240,6 +240,34 @@ Markdown 支持有序列表和无序列表。
 #### 反斜杠 ####
 可以利用反斜杠来插入一些在语法中有其它意义的符号
 
-终于弄完一篇文章
-转载自
+#### 表格 ####
+表可在Markdown pad里面显示不出来效果，在马克飞象里面可以显示出来。但是马克飞象下载不了呀。
+先来看代码    
+
+    
+    | Tables        | Are           | Cool  |
+    | ------------- |:-------------:| -----:|
+    | col 3 is      | right-aligned | $1600 |
+    | col 2 is      | centered      |   $12 |
+    | zebra stripes | are neat      |    $1 |
+
+
+这个是效果，注意，有左对齐，右对齐的效果哦，表头和列表内容是一致的对齐方式。
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 | 
+
+后面加空格   
+| Tables        | Are           | Cool  |    
+| ------------- |:-------------:| -----:|   
+| col 3 is      | right-aligned | $1600 |   
+| col 2 is      | centered      |   $12 |   
+| zebra stripes | are neat      |    $1 |   
+
+
+终于弄完一篇文章    
+内容来自：    
 [http://wowubuntu.com/markdown/index.html#p](http://wowubuntu.com/markdown/index.html#p)
