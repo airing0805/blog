@@ -171,9 +171,13 @@ pre {
   letter-spacing: 0;
 }
 
-table  {
+table {
   border-collapse: collapse;
   border: 1px solid #E7E5DC;
+}
+
+td {
+	border: 1px solid #E7E5DC;
 }
 
 table.post-list {
