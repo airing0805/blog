@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 一直想写一本书，现在就开始吧
 category: 
 tags: 
